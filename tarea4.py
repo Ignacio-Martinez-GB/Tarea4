@@ -40,6 +40,11 @@ def problema3():
 #if __name__ == "__main__":
     #problema3()
 
+
+
+
+
+
 ########## Problema 4 ##########
 
 def problema4():
@@ -72,7 +77,7 @@ def problema4():
 
 
 
-import numpy as np
+
 
 ########## Problema 5 ##########
 def problema5():
@@ -127,7 +132,7 @@ def problema5():
 
 
 
-import numpy as np
+
 
 ########## Problema 6 ##########
 def problema6():
